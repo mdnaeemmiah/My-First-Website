@@ -3,7 +3,8 @@
     margin: 0%;
 }
 div{
-background-color: rgb(248, 205, 151);
+    background-color: bisque;
+ 
 }
 h1{
     text-align: center;
@@ -11,3 +12,22 @@ h1{
 h1:hover{
     text-shadow: 2px 2px 2px red;
 }
+
+.img1{
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
+   width: 50%;
+   height: 200px;
+   width: 200px;
+   border-radius: 50%;
+   border: 2px solid green;
+}
+.img1:hover{
+    box-shadow: 10px 10px 10px black;
+}
+#hi{
+    text-align: center;
+
+}
+
