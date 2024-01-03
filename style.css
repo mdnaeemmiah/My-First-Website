@@ -30,4 +30,38 @@ h1:hover{
     text-align: center;
 
 }
-
+#hei{
+    display: block;
+}
+#div1{
+    background-color: rgb(36, 151, 36);
+    text-align: center;
+    border: 2px solid gold;
+}
+#div2{
+    background-color: rgb(36, 151, 36);
+    text-align: center;
+    border: 2px solid gold;
+}
+#div3{
+    background-color: rgb(36, 151, 36);
+    text-align: center;
+    border: 2px solid gold;
+}
+#div4{
+    background-color: rgb(36, 151, 36);
+    text-align: center;
+    border: 2px solid gold;
+}
+img{
+ display: block;
+ width: 50%;
+ height: 300px;
+ width: 300px;
+ margin-left: auto;
+ margin-right: auto;
+border: 2px solid black;
+}
+img:hover{
+ box-shadow: 20px 20px 20px tomato;
+}
