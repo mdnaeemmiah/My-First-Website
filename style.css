@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+div{
+background-color: rgb(248, 205, 151);
+}
+h1{
+    text-align: center;
+}
+h1:hover{
+    text-shadow: 2px 2px 2px red;
+}
